@@ -8,7 +8,8 @@ Be possible write it:
 
 <pre><code>
 My target 'evinicius.com'
-I want in 'XML' the links of 'posts' list
+I want the links of '#posts' list
+Export to 'XML'
 </code></pre>
 
 And get it:
