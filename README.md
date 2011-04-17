@@ -6,15 +6,14 @@ The Ideia
 Be possible write it:
 
 
-<pre>`
+<pre><code>
 My target 'evinicius.com'
 I want in 'XML' the links of 'posts' list
-`</pre>
+</code></pre>
 
 And get it:
 
-<pre>`
-<posts>
+<pre>`<posts>
   <post>
     <link>/posts/ruby-no-ap-hacker#article-6</link>
   </post>
@@ -24,5 +23,4 @@ And get it:
   <post>
     <link>/posts/meu-ambiente-de-desenvolvimento-em-7-itens#article-1</link>
   </post>
-</posts>
-`</pre>
+</posts>`
